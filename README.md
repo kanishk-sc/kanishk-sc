@@ -6,21 +6,21 @@ I build software and data products with Python, FastAPI, React, TypeScript, and 
 
 ### [PulseForge](https://github.com/kanishk-sc/pulseforge)
 
-A real-time data and AI operations platform for synthetic commerce and logistics events. The verified foundation includes versioned event contracts, Kafka ingestion, PostgreSQL, MinIO, FastAPI health checks, Docker Compose, CI, and integration tests.
+A real-time operations platform with a tested synthetic event path from Kafka and Spark through PostgreSQL, MinIO, dbt, and Airflow to a FastAPI and React dashboard.
 
-`Python` · `FastAPI` · `Kafka` · `PostgreSQL` · `Docker`
+`Python` · `Kafka` · `Spark` · `dbt` · `Airflow` · `FastAPI` · `React`
 
 ### [FreightIQ](https://github.com/kanishk-sc/freightiq)
 
-A freight-invoice review workflow that extracts structured fields from PDFs with the Anthropic API, stores audit history, and presents exceptions in a React dashboard.
+An asynchronous freight-invoice review workflow with Celery jobs, PostgreSQL and MinIO storage, typed Claude extraction, deterministic audit rules, and a React dashboard.
 
-`React` · `TypeScript` · `FastAPI` · `Claude API` · `SQLite`
+`Python` · `FastAPI` · `Celery` · `PostgreSQL` · `MinIO` · `React`
 
 ### [ApplyPilot](https://github.com/kanishk-sc/applypilot)
 
-A local Streamlit workflow for comparing resumes with job descriptions, identifying missing skills, drafting application materials, and tracking applications.
+An explainable resume-to-role matching workflow with FastAPI, PostgreSQL and pgvector retrieval, grounded draft generation, and a thin Streamlit client.
 
-`Python` · `Streamlit` · `pypdf` · `SQLite`
+`Python` · `FastAPI` · `pgvector` · `PostgreSQL` · `Streamlit`
 
 ## How I work
 
