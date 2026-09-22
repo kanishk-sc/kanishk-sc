@@ -1,4 +1,4 @@
-# Hi, I'm Kanishk Chauhan
+# Hi, I'm Kanishk Singh Chauhan
 
 I build software and data products with Python, FastAPI, React, TypeScript, and practical AI integrations. I care about systems that are testable, observable, and honest about what is implemented.
 
