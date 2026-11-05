@@ -4,6 +4,12 @@ I build software and data products with Python, FastAPI, React, TypeScript, and 
 
 ## Featured work
 
+### [Easy A](https://easya.fyi/)
+
+Co-developed and launched a free course-planning application for University of South Florida students. It brings historical grade distributions, professor comparisons, course schedules, seat availability, and Rate My Professors links into one searchable experience.
+
+`Python` · `FastAPI` · `PostgreSQL` · `Supabase` · `React` · `TypeScript`
+
 ### [PulseForge](https://github.com/kanishk-sc/pulseforge)
 
 A real-time operations platform with a tested synthetic event path from Kafka and Spark through PostgreSQL, MinIO, dbt, and Airflow to a FastAPI and React dashboard.
